@@ -1,13 +1,6 @@
-## Hi there 👋
-I am Ishai, i have recently finished my programing training at InfinityLabs R&D.  
-I'm now leveraging the GitHub platform to develop and maintain new projects, exploring concepts and technologies that are new to me and that I find intriguing.  
 
- 🔭 I’m currently working on my full-stack Web Bank App project and expending it functionalities.  
-
- 🌱 I'm currently learning about the MERN Stack, focusing on:
- - Designing a robust backend with the Express.js framework
- - Planning efficient MongoDB schemas for optimized queries
-
+A passionate backend developer driven to work in a collaborative environment,
+ seeking to make an impact alongside talented peers and to enhance team success.
 
 
 
