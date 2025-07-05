@@ -1,6 +1,13 @@
 
-A passionate backend developer driven to work in a collaborative environment,
- seeking to make an impact alongside talented peers and to enhance team success.
+Hi! I'm a passionate backend developer eager to contribute in collaborative environments and build real-world products.
+
+🛠️ Currently developing an **open-source full-stack mobile app** that connects host families with soldiers on vacation who lack family support.  
+📦 Built with **Node.js, Express, MongoDB**, and **React Native**.
+
+🎨 Looking to collaborate with a **UX/UI designer** to refine the app experience — both as a learning opportunity and to build something meaningful.
+
+🚀 Actively seeking **backend developer roles**, especially where I can grow alongside talented peers and contribute to impactful projects.
+
 
 
 
